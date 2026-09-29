@@ -1,7 +1,7 @@
 # xy-links
 这是一个毛玻璃效果，有后台的网站导航，瞎搞的
 一个支持暗黑毛玻璃风格、多主题切换、SEO可控、外站安全跳转的个人导航站点。
-演示站:https://xy-links.131206.xyz
+演示站:https://xy-links.nbnb.mom/
 发行页:https://xy.nki.pw/index.php/archives/18/
 
 ## 📁 项目结构
